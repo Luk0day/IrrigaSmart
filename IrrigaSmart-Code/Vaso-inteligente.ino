@@ -11,7 +11,7 @@
 // CONFIGURAÇÕES WiFi
 
 const char* WIFI_SSID = "Larissa-Pernambuco_Telecom";
-const char* WIFI_PASS = "19Ki73wi@";
+const char* WIFI_PASS = "suasenha";
 
 
 // NTP  (Recife = UTC-3, sem horário de verão)
